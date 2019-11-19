@@ -2,7 +2,7 @@
 
 ![Powered by Jupyter Logo](https://cdn.oreillystatic.com/images/icons/powered_by_jupyter.png)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gl/https%3A%2F%2Fresources.oreilly.com%2Fbinderhub%2Fjupyter-notebook-foundations/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gl/https%3A%2F%2Fresources.oreilly.com%2Fbinderhub%2Fjupyter-notebook-foundations.git/master)
 
 This project contains the Jupyter Notebooks and supporting files for _Jupyter Notebook Foundations_ with Daniel Hinojosa. 
 
